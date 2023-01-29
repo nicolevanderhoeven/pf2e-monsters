@@ -1,0 +1,116 @@
+Name,Size,Level,Keywords,HP,AC,Tags,Source
+Afneith,Large,8,"neutral, large, beast",140,26,"darkvision, echolocation, scent",Battlezoo Bestiary: 10
+Arcarayut,Small,10,"lawful neutral, small, aeon, inevitable, monitor",175,30,"darkvision, true seeing, regeneration, gravity",Battlezoo Bestiary: 11
+Ardeodaemon - Fire Daemon,Small,4,"neutral evil, small, daemon, fiend",60,20,"darkvision, stealth, fire",Battlezoo Bestiary: 12
+Astringent Armor,Medium,8,"neutral, medium, construct, mindless",115,27,"darkvision, athletics, stealth, armor, object",Battlezoo Bestiary: 13
+Blood Mouse,Tiny,1,"neutral, tiny, animal",16,16,"darkvision, acrobatics, stealth, survival, blood",Battlezoo Bestiary: 14
+Butcher Booth,Gargantuan,12,"uncommon, chaotic evil, gargantuan, aberration",270,30,"sound mimic, fearsense, greater darkvision, mimic, swallow",Battlezoo Bestiary: 15
+Chamber Ooze,Large,5,"neutral, large, mindless, ooze",100,13,"motion sense, ooze, paralysis",Battlezoo Bestiary: 16
+Cloaked Gouger,Medium,6,"neutral evil, medium, fey",95,23,"all-around vision, dazzling, eyes",Battlezoo Bestiary: 17
+Mechanical Maitre D,Medium,6,"neutral, medium, construct",80,24,"poison, food",Battlezoo Bestiary: 18
+Automatic Acolyte,Medium,8,"neutral, medium, construct",110,26,"fire, caster",Battlezoo Bestiary: 19
+Bespoke Bodyguard,Large,10,"neutral, large, construct, mindless",140,30,"protect, defense",Battlezoo Bestiary: 20
+Coquecigrue,Small,8,"rare, neutral, small, aberration",120,27,"stupefied, aura, confused",Battlezoo Bestiary: 21
+Coromn (Crown Devil),Medium,6,"lawful evil, medium, devil, fiend",75,21,"celestial, dimension door, suggestion, influence",Battlezoo Bestiary: 22
+Corpsesewn Colossus,Huge,12,"uncommon, neutral evil, huge, construct, mindless",270,31,"dead, poison, swallow",Battlezoo Bestiary: 23
+Creusadaemon (Fever Daemon),Medium,7,"neutral evil, medium, daemon, fiend",110,24,"leap, fever, disease, range",Battlezoo Bestiary: 24
+Dredgenaut,Huge,14,"uncommon, neutral, huge, construct, mindless",230,35,"fire, mental, swallow, temporal, time",Battlezoo Bestiary: 25
+Dundrath,Large,6,"uncommon, chaotic evil, large, dundrath, humanoid",120,21,"shield, range, swallow",Battlezoo Bestiary: 26
+Eeko,Small,6,"chaotic good, small, fey, plant",120,23,"bugs, poison",Battlezoo Bestiary: 27
+Excubitor (Chaperone Devil),Medium,8,"lawful evil, medium, devil, fiend",135,27,swallow,Battlezoo Bestiary: 28
+Eyesore,Medium,3,"neutral, medium, mindless, ooze",80,11,"acid, dazzled, blinded",Battlezoo Bestiary: 29
+Feld Hag,Medium,5,"chaotic evil, medium, hag, humanoid",55,22,"occult, polymporph, shapechange",Battlezoo Bestiary: 30
+Ferropaceon,Large,10,"uncommon, neutral, large, earth, elemental",185,30,"magnetic, metal, earth",Battlezoo Bestiary: 31
+Fungal Raptor,Medium,6,"uncommon, neutral, medium, fungus",120,24,"fungus, mushroom, sickened, disease",Battlezoo Bestiary: 32
+Fylaka,Medium,6,"neutral, medium, monitor, psychopomp",120,23,"swallow, negative damage, breath weapon",Battlezoo Bestiary: 33
+G'mayun,Small,0,"chaotic neutral, small, humanoid, g'mayun",14,15,"auditory, emotion",Battlezoo Bestiary: 34
+Galtzagorri,Tiny,2,"chaotic neutral, tiny, fey, sprite",35,17,"primate, spellcaster",Battlezoo Bestiary: 35
+Garataur,Large,5,"uncommon, neutral, large, beast, gnoll",75,22,"frightened, movement",Battlezoo Bestiary: 36
+Ghostwriter,Medium,6,"chaotic evil, medium, incorporeal, spirit, undead",70,23,"spellcaster, possession",Battlezoo Bestiary: 37
+"Glaucus Slug, Giant",Small,4,"neutral, small, animal, aquatic, mindless",80,18,"water, jellyfish, poison",Battlezoo Bestiary: 38
+Gymnophobia,Large,9,"uncommon, chaotic evil, large, aberration, amphibious",160,28,"grapple, shield, constrict",Battlezoo Bestiary: 39
+Hearth Hound,Medium,4,"uncommon, neutral, medium, beast, incorporeal, spirit, undead",45,20,"fire, negative, slowed",Battlezoo Bestiary: 40
+Hieroglyph Scorpion,Small,10,"uncommon, neutral, small, construct, incorporeal, mindless",110,28,"poison, climb, polymorph",Battlezoo Bestiary: 41
+Hook Hanger,Medium,7,"neutral evil, medium, aberration",140,24,"incapacitation, clumsy, climb",Battlezoo Bestiary: 42
+Hook Melon,Medium,4,"neutral evil, medium, plant",90,20,"movement, grabbed",Battlezoo Bestiary: 43
+Leshy Husk,Small,0,"chaotic evil, small, husk, leshy, plant",22,16,"necrotic, shapechange, negative, drained",Battlezoo Bestiary: 44
+Dryad Husk,Medium,3,"chaotic evil, medium, fey, husk, nymph, plant",70,18,"drained, darkness, stupefied",Battlezoo Bestiary: 45
+Arboreal Husk,Huge,8,"chaotic evil, huge, husk, plant",170,25,"drained, awakened",Battlezoo Bestiary: 46
+Irivyrn,Huge,12,"chaotic neutral, huge, dragon, fey",250,33,"poison, breath weapon, blinded",Battlezoo Bestiary: 47
+Iron Fern,Medium,2,"netural, medium, mindless, plant",20,19,"tremorsense, spores, blinded",Battlezoo Bestiary: 48
+Jikou,Tiny,12,"uncommon, lawful neutral, tiny, dream, fey, incorporeal",200,30,"darkvision, lifesense, telepathy, sneak attack",Battlezoo Bestiary: 49
+Jungle Mantis Swarm,Large,8,"neutral, large, animal, swarm",115,26,"darkvision, grabbed",Battlezoo Bestiary: 50
+Keepsake Warden,Large,9,"uncommon, neutral, large, giant, humanoid",170,26,"occult, fast healing",Battlezoo Bestiary: 51
+Khazorat,Large,20,"rare, neutral evil, large, fiend",400,44,"all-around vision, spells, divine",Battlezoo Bestiary: 52
+Killing Intent,Medium,4,"uncommon, chaotic evil, medium, ethereal, incorporeal, spirit",45,18,"emotion, occult, sickened",Battlezoo Bestiary: 53
+Knotsman,Medium,7,"neutral, medium, construct, mindless",115,26,grabbed,Battlezoo Bestiary: 54
+Living Blade,Medium,8,"uncommon, neutral evil, medium, construct, soulbound",100,27,occult,Battlezoo Bestiary: 55
+Living Divination Deck,Tiny,1,"rare, neutral, tiny, construct, soulbound",25,15,"divination, fortune, sentient item",Battlezoo Bestiary: 56
+Living Library,Medium,9,"rare, neutral, medium, construct",200,26,"book, polymorph, shapechange, scroll",Battlezoo Bestiary: 57
+Living Proof,Tiny,1,"neutral, tiny, construct, minion",20,14,"fly, bomb, spellcaster",Battlezoo Bestiary: 58
+Lost Savior,Medium,11,"rare, lawful evil, medium, undead",11,31,"occult, frightened, stunned",Battlezoo Bestiary: 59
+Matrona,Gargantuan,15,"lawful evil, gargantuan, construct, fey",320,37,"fly, primal",Battlezoo Bestiary: 60
+Mechanical Artillerist,Large,7,"neutral, large, construct, mindless",100,25,"artillery, mechanical",Battlezoo Bestiary: 61
+Milopoxy,Medium,8,"uncommon, chaotic neutral, medium, fey",130,27,"suggestion, protect",Battlezoo Bestiary: 62
+Mogadb,Large,3,"neutral, large, animal, fey5",55,19,"swarm, breath weapon, filth fever, disease",Battlezoo Bestiary: 63
+Muted Delver,Huge,11,"chaotic evil, huge, aberration, amphibious",225,30,"telepathy, grabbed, stunned",Battlezoo Bestiary: 64
+Myzoform,Large,8,"neutral evil, large, aberration, amphibious, swarm",130,26,"stupefied, grabbed, spellcaster",Battlezoo Bestiary: 65
+Necroflesh monarch,Gargantuan,15,"uncommon, neutral evil, gargantuan, mindless, ooze, undead",350,33,"swallow, negative",Battlezoo Bestiary: 66
+Nobbler,Medium,5,"rare, neutral, medium, construct, mindless",75,21,"suffocating, swallow",Battlezoo Bestiary: 67
+Orb of Insanity,Tiny,15,"rare, chaotic neutral, tiny, construct",240,34,"occult, tentacle, grabbed, fly, shield, telekinetic",Battlezoo Bestiary: 68
+Osphranteal (Kangaroo Agathion),Large,10,"uncommon, neutral good, large, agathion, celestial",210,30,"grabbed, divine, jump",Battlezoo Bestiary: 69
+Othruni,Medium,7,"chaotic neutral, medium, fey, fungus",150,25,"plant, poison, spore",Battlezoo Bestiary: 70
+Parasite Husk,Medium,3,"neutral evil, medium, mindless, undead",75,16,"mental, paralyzed",Battlezoo Bestiary: 71
+Parrotbear,Large,4,"neutral, large, animal",60,21,"sneak attack, frightened",Battlezoo Bestiary: 72
+Phase Tiger,Large,7,"uncommon, chaotic evil, large, beast",110,25,"pounce, sneak attack, ethereal, material",Battlezoo Bestiary: 73
+Prismatic Ooze,Large,17,"rare, neutral, large, mindless, ooze",450,28,"dazzling, prismatic, engulf, swallow",Battlezoo Bestiary: 74
+Puppeteer,Medium,11,"uncommon, neutral, medium, construct",250,29,"occult, minion",Battlezoo Bestiary: 75
+Reaver Beaver,Medium,5,"neutral evil, medium, beast",95,20,acid,Battlezoo Bestiary: 76
+Rope Golem,Large,6,"uncommon, neutral, large, construct, golem, mindless",125,22,"constrict, grabbed",Battlezoo Bestiary: 77
+Ruin Bruiser,Medium,6,"uncommon, lawful neutral, medium, construct, earth",75,25,"shield, shove",Battlezoo Bestiary: 78
+Runebranded Aurochs,Large,4,"neutral, large, animal",72,20,"climb, movement, lightning",Battlezoo Bestiary: 79
+Salt Stalker,Medium,4,"neutral, medium, beast",70,20,"fluidsense, salt, climb, poison, sickened, fire",Battlezoo Bestiary: 80
+Salt Scorcher,Medium,6,"neutral, medium, beast",120,22,"poison, grease, fire",Battlezoo Bestiary: 81
+Salt Glider,Large,8,"neutral, large, beast",100,27,"fly, desert, glide, poison",Battlezoo Bestiary: 82
+Salt Mother,Huge,10,"uncommon, neutral, huge, beast",220,28,"poison, auditory",Battlezoo Bestiary: 83
+Sanguine Rose,Large,4,"neutral evil, large, mindless, plant, undead",65,20,"negative, olfactory, swallow",Battlezoo Bestiary: 84
+Sapphire Drake,Large,7,"neutral evil, large, dragon, earth",120,24,"breath weapon, movement, sonic",Battlezoo Bestiary: 85
+Scroll mold,Tiny,0,"neutral, tiny, fungus",16,12,"auditory, spellcaster, subtle",Battlezoo Bestiary: 86
+Giant Sea Squirt,Medium,5,"neutral, medium, animal, aquatic, mindless",110,20,"swallow, poison, swim",Battlezoo Bestiary: 87
+Sea Squirt Patch,Hazard,4,"aquatic, environmental",35,18,"swim, poison",Battlezoo Bestiary: 87
+Semuvig,Small,23,"unique, chaotic evil, small, undead",455,48,"arcane, spellcaster, curse",Battlezoo Bestiary: 88
+Senidaemon,Medium,8,"neutral evil, medium, daemon, fiend, incorporeal",130,26,"evil, necromancy, demon, curse, fly, spellcaster, divine",Battlezoo Bestiary: 89
+Shadow Thief,Small,2,"uncommon, neutral, small, aberration",30,17,"memory, occult, swap shadow, transmutation",Battlezoo Bestiary: 90
+Shadowless House Drake,Small,4,"rare, neutral evil, small, aberration, dragon",60,20,"telekinetic, breath weapon, negative",Battlezoo Bestiary: 91
+Shale Spitter,Medium,2,"neutral, medium, animal, earth",30,18,"slowed, reaction",Battlezoo Bestiary: 92
+Shale Swarm,Large,3,"neutral, large, animal, earth, shadow",30,19,"rock, earth, swarm, cover",Battlezoo Bestiary: 93
+Shale Charger,Large,6,"neutral, large, animal, earth",100,24,"burrow, rock, movement",Battlezoo Bestiary: 94
+Obsidian Shale Beast,Medium,10,"neutral, medium, animal, earth",170,31,"bleed, rock, auditory, transmutation",Battlezoo Bestiary: 95
+Shale Behemoth,Gargantuan,18,"uncommon, neutral, gargantuan, animal, earth",415,41,"rock, persistent, sonic, auditory, deafened, stunned",Battlezoo Bestiary: 96
+Shinglelurk,Huge,7,"neutral, huge, aberration",125,23,"swallow, mimic, fly",Battlezoo Bestiary: 97
+Silk-Tailed Beetle,Small,2,"neutral, small, beast, fey",30,18,"dazzled, poison",Battlezoo Bestiary: 98
+Siluvain,Medium,4,"lawful evil, medium, devil, fiend",40,20,"polymorph, transmutation, mental, shapechange",Battlezoo Bestiary: 99
+Wispy Wayfarer,Small,2,"neutral evil, small, incorporeal, spirit, undead",20,18,"necromancer, divine, fly, negative",Battlezoo Bestiary: 100
+Dishrag Dervish,Large,4,"chaotic evil, large, incorporeal, spirit, swarm, undead",35,19,"ectoplasm, sickened, necromancy, poison,",Battlezoo Bestiary: 101
+Curtain Caller,Gargantuan,10,"chaotic evil, gargantuan, incorporeal, spirit, undead",180,27,"negative, paralyzed, fly, auditory",Battlezoo Bestiary: 102
+Skeletal Monstrosity,Gargantuan,10,"neutral evil, gargantuan, mindless, skeleton, undead",160,29,"grabbed, frightened, trample",Battlezoo Bestiary: 103
+Sklaggan,Medium,5,"neutral evil, medium, aberration, shadow",65,22,"occult, spellcaster, shadow, sickened",Battlezoo Bestiary: 104
+Skotogelia,Tiny,5,"uncommon, neutral, tiny, fey, incorporeal, shadow",70,20,"occult, fly, spellcaster, shadow, material plane",Battlezoo Bestiary: 105
+Slaugh,Large,8,"uncommon, neutral, large, undead",190,26,"divine, spellcaster, auditory, necromancy",Battlezoo Bestiary: 106
+Solovei,Medium,6,"neutral, medium, animal",90,23,"sneak attack, auditory, clumsy, deafened",Battlezoo Bestiary: 107
+Springjaw Doll,Small,1,"neutral, small, clockwork, construct, mindless",25,16,grabbed,Battlezoo Bestiary: 108
+Swarm Assassin,Medium,3,"lawful evil, medium, humanoid, shadow, swarm",50,17,poison,Battlezoo Bestiary: 109
+Temporal Manifestation,Medium,5,"rare, neutral evil, medium, aberration, time",70,22,"sickened, occult, spellcaster, swallow",Battlezoo Bestiary: 110
+Thorn Crawler,Huge,10,"neutral, huge, plant",215,29,"plant, primal, swallow, drained, necromantic, life drain",Battlezoo Bestiary: 111
+Toy Spy,Tiny,3,"neutral, tiny, construct, mindless",40,18,"toy, mimic, spellcaster, arcane, poison",Battlezoo Bestiary: 112
+Toy Swarm,Large,2,"neutral, large, construct, mindless, swarm",20,18,"toy, persistent",Battlezoo Bestiary: 113
+Trodaiche-Sidhe,Medium,6,"chaotic neutral, medium, fey, wild hunt",90,24,"attack of opportunity, repair",Battlezoo Bestiary: 114
+Unarmored,Medium,12,"chaotic evil, medium, incorporeal, spirit, undead",190,30,"shield, teleportation, divine, necromancer, fly, armor",Battlezoo Bestiary: 115
+Unraveler,Medium,7,"uncommon, chaotic neutral, medium, astral, chaotic",90,25,"occult, spellcaster, persistent",Battlezoo Bestiary: 116
+Veenlijk,Medium,7,"neutral evil, medium, amphibious, undead",150,25,"fire, primal, spellcaster, grabbed",Battlezoo Bestiary: 117
+Venomous Snakedead,Medium,2,"neutral evil, medium, mindless, undead",40,17,poison,Battlezoo Bestiary: 118
+Warp Wyrm,Medium,8,"chaotic evil, medium, dragon, ethereal",140,26,"teleportation, time, breath weapon",Battlezoo Bestiary: 119
+Wildfire Leshy,Small,2,"chaotic good, small, leshy, plant",40,16,"fire, primal, persistent, primal, spellcaster",Battlezoo Bestiary: 120
+Windborne Dead,Medium,10,"rare, chaotic evil, medium, air, undead",170,30,"divine, fly, wind",Battlezoo Bestiary: 121
+Yomhibdi,Medium,4,"chaotic neutral, medium, aberration, ethereal",70,20,"water, emotion, stupefied, blinded",Battlezoo Bestiary: 122
+Ice Zuggle,Small,2,"chaotic neutral, small, cold, elemental, water",30,17,"poison, cold, climb",Battlezoo Bestiary: 123
